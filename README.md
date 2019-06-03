@@ -1,5 +1,5 @@
 # file_search
-####Command line app that searches for files based on a search pattern
+#### Command line app that searches for files based on a search pattern
 
 ## Assumptions
 * os.listdir and similar functions were out, but anything else included with Python was fair game (os.path, glob, argparse)
